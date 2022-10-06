@@ -4,7 +4,7 @@ sleep 1
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m #AZZAM CYBER"
 echo "\033[36;1m author by :"
-echo "\033[36;1m ™<<Mr_MSDV>>™ "
+echo "\033[36;1m ™AzzamCyber™ "
 echo "\033[32;1m Sebelum memilih spam,terlebih dahulu install bahan (08)"
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 
